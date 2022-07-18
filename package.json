@@ -1,0 +1,10 @@
+{
+  "name": "jsp Lessons",
+  "description": "Simple Heroku Java Web Application Using Embedded Tomcat",
+  "repository": "https://github.com/vkrishnanb-chainsys/jsplessons",
+  "keywords": [
+    "java",
+    "tomcat",
+    "jsp"
+  ]
+}
